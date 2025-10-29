@@ -1,11 +1,11 @@
 # 1. Install Playwright project
-npm install
+npm install<br>
 npx playwright install (to install browsers)
 
 # 2. Run tests
-npx playwright test
+npx playwright test<br>
 to run in a specific browser add the --project flag
-    npx playwright test --project chromium
+   - npx playwright test --project chromium
 
 # Integrating TestRail useing TestRail CLI Example
 ### I do not have an actual TestRail. This is just an example.
