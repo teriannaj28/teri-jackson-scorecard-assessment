@@ -1,0 +1,30 @@
+{
+    "backpack" : {
+        "inventoryName" : "Sauce Labs Backpack",
+        "price" : "29.99"
+
+    },
+
+    "bikeLight" : {
+        "inventoryName" : "Sauce Labs Bike Light",
+        "price": "9.99"
+    },
+
+    "boltTshirt" : {
+        "inventoryName" : "Sauce Labs Bolt T-Shirt",
+        "price": "15.99"
+    },
+
+    "fleeceJacket" : {
+        "inventoryName" : "Sauce Labs Fleece Jacket",
+        "price": "49.99"
+    },
+    "onesie" : {
+        "inventoryName" : "Sauce Labs Onesie",
+        "price": "7.99"
+    },
+    "testTshirt" : {
+        "inventoryName" : "Test.allTheThings() T-Shirt (Red)",
+        "price": "9.99"
+    }
+}
